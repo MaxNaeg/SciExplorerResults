@@ -1,8 +1,13 @@
 # Agentic Exploration of Physics Models
 
 This notebook contains the results of the paper 'Agentic Exploration of Physics Models'.
-To run the Python files and notebooks in this repository, you should first clone and install the SciExplorer package found at 'INSERT HERE'
-The repo conatins the follwoing folders:
+To run the Python files and notebooks in this repository, you should first clone and install the [SciExplorer](https://github.com/MaxNaeg/SciExplorer.git) package.
+
+## WARNING
+
+The tools provided to the agent enable automatic execution of LLM generated Python code. While we did not observe the agent acting malicious in our experiments, these tools should best be run in a save environment.
+
+## Contents
 
 - ablation_final_runs: contains results and run file
 - mechanics_final_runs: contains results and run file
