@@ -5,7 +5,7 @@ To run the Python files and notebooks in this repository, you should first clone
 
 ## WARNING
 
-The tools provided to the agent enable automatic execution of LLM generated Python code. While we did not observe the agent acting malicious in our experiments, these tools should best be run in a save environment.
+The tools provided to the agent enable automatic execution of LLM generated Python code. While we did not observe the agent acting malicious in our experiments, these tools should best be run in a safe environment.
 
 ## Contents
 
